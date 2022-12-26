@@ -5,6 +5,10 @@
     padding: 0 5px;
 }
 
+.wordmark-2u86JB::after {
+    line-height: 30px;
+}
+
 .withFrame-2dL45i {
     height: unset;
     margin: 0;
