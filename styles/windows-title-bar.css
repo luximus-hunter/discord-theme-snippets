@@ -1,0 +1,18 @@
+/* Windows 11 titlebar */
+.wordmark-2u86JB,
+.wordmark-2u86JB svg {
+    height: 30px;
+    padding: 0 5px;
+}
+
+.withFrame-2dL45i {
+    height: unset;
+    margin: 0;
+    padding: 0;
+}
+
+.winButton-3UMjdg {
+    height: 30px !important;
+    width: 45px !important;
+    top: 0;
+}
