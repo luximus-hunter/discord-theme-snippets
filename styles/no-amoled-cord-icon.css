@@ -1,0 +1,10 @@
+/* No amoled-cord icon */
+.titleBar-1it3bQ.typeWindows-2-g3UY::after {
+    display: none;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+.wordmark-2u86JB {
+    margin: 0 !important;
+}

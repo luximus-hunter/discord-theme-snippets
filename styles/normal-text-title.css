@@ -1,0 +1,16 @@
+/* Normal text title */
+.wordmark-2u86JB svg {
+    display: none;
+    width: 0 !important;
+    height: 0 !important;
+}
+
+.wordmark-2u86JB::after {
+    font-weight: bold;
+    content: "DISCORD";
+    color: var(--interactive-normal);
+    width: fit-content;
+    line-height: 15px;
+    font-size: 15px;
+    margin-left: 0;
+}

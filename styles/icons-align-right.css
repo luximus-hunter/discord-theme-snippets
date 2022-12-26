@@ -1,0 +1,11 @@
+/* Align icons to the right */
+.layout-1LjVue {
+    width: 100%;
+}
+
+.name-3Vmqxm,
+.name-2m3Cms,
+.activityText-ev7Z1T,
+.activityText-1rR-8O {
+    flex: 1;
+}

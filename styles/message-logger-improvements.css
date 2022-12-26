@@ -1,0 +1,28 @@
+/* Message logger improvements */
+.messageLogger-edited,
+.messageLogger-deleted {
+    filter: brightness(40%) !important;
+    transition: filter 150ms;
+}
+
+.messageLogger-edited:hover,
+.messageLogger-deleted:hover {
+    filter: brightness(80%) !important;
+}
+
+.messageLogger-edited span {
+    display: none;
+}
+
+.messageLogger-deleted,
+.messageLogger-deleted * {
+    color: #f04747 !important;
+}
+
+.messageLogger-deleted img {
+    filter: grayscale(100%);
+}
+
+.messageLogger-deleted img:hover {
+    filter: grayscale(0%);
+}
