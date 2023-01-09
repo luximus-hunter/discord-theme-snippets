@@ -1,0 +1,7 @@
+/* No account security */
+#my-account-tab>div>div:nth-child(2),
+#my-account-tab>div>div:nth-child(3),
+#my-account-tab>div>div:nth-child(4),
+#my-account-tab>div>div:nth-child(5) {
+    display: none;
+}
