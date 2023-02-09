@@ -1,28 +1,28 @@
 /* Message logger improvements */
-.messageLogger-edited,
-.messageLogger-deleted {
+.messagelogger-edited,
+.messagelogger-deleted {
     filter: brightness(40%) !important;
     transition: filter 150ms;
 }
 
-.messageLogger-edited:hover,
-.messageLogger-deleted:hover {
+.messagelogger-edited:hover,
+.messagelogger-deleted:hover {
     filter: brightness(80%) !important;
 }
 
-.messageLogger-edited span {
+.messagelogger-edited span {
     display: none;
 }
 
-.messageLogger-deleted,
-.messageLogger-deleted * {
+.messagelogger-deleted,
+.messagelogger-deleted * {
     color: #f04747 !important;
 }
 
-.messageLogger-deleted img {
+.messagelogger-deleted img {
     filter: grayscale(100%);
 }
 
-.messageLogger-deleted img:hover {
+.messagelogger-deleted img:hover {
     filter: grayscale(0%);
 }
